@@ -1,0 +1,83 @@
+[
+	{
+		"id": "1",
+		"name": "General Pediatrics",
+		"img1": "https://medilife-react.netlify.app/1a.jpg",
+		"img2": "https://medilife-react.netlify.app/1b.jpg",
+		"img3": "https://medilife-react.netlify.app/1c.jpg",
+		"description": "At UCLA Health, we provide innovative health care services from birth to 21 that focus on your child’s specific needs.",
+		"longDescription": "At UCLA Health, we provide innovative health care services from birth to 21 that focus on your child’s specific needs. Our pediatric and family medicine physicians deliver: \n \n Child-friendly care: Our experienced specialists provide the latest in pediatric care. \n \n Partnership: We collaborate with families to help their children flourish as they grow. Our pediatric physicians are available to address every need, with compassion. \n \n Convenience: Our pediatricians and family medicine physicians provide primary care to children at more than 25 locations throughout the greater Los Angeles region. Our pediatric specialists also spend time in community offices, so your child can get the care they need, close to home. In addition to in-person appointments, parents can ask questions, schedule appointments and request referrals in their child’s patient portal, myUCLAhealth. \n \n Coordination: Our primary and specialty care pediatric teams are in regular contact to ensure that your child’s care is comprehensive and coordinated. UCLA Health physicians can access your child’s electronic medical record, where they can see immunization schedules, lab tests and imaging studies. Our portal gives parents peace of mind, with less paperwork to manage and details to remember. "
+	},
+	{
+		"id": "2",
+		"name": "Heart/Cardiovascular Services",
+		"img1": "https://medilife-react.netlify.app/2a.jpg",
+		"img2": "https://medilife-react.netlify.app/2b.jpg",
+		"img3": "https://medilife-react.netlify.app/2c.jpg",
+		"description": "The UCLA Division of Heart and Vascular Services has been providing the most advanced, world-class cardiovascular care for more than 25 years.",
+		"longDescription": "The UCLA Division of Heart and Vascular Services has been providing the most advanced, world-class cardiovascular care for more than 25 years. Nationally, we rank 9th in Cardiology, as determined by U.S. News & World Report. Highlights of our heart and vascular services include: \n \n Leaders in cardiac care: When patients choose UCLA Health, they benefit from working with leaders in the various cardiac fields. We have among the largest heart transplant and lung transplant programs in the country. And, we are a leading center in treating and managing heart failure. \n \n Advanced surgical options: We use minimally invasive and robotic surgery techniques, including robotic heart valve surgery and surgery for cardiac arrhythmias. We are experts in surgical treatment for thoracic aortic aneurysms and aortic dissections. \n \n Commitment to research: Our dedicated research teams keep us at the forefront of new and promising treatments. Patients have access to advanced, leading-edge therapies. \n \n Sub-specialty expertise: A range of specialized clinics offer targeted treatments for patients with complex conditions. Our services include everything from heart disease prevention to women’s cardiovascular services, minimally invasive surgery and heart transplantation."
+	},
+	{
+		"id": "3",
+		"name": "Cancer Services",
+		"img1": "https://medilife-react.netlify.app/3a.jpg",
+		"img2": "https://medilife-react.netlify.app/3b.jpg",
+		"img3": "https://medilife-react.netlify.app/3c.jpg",
+		"description": "At UCLA Health, teams of specialists work together to treat and assist cancer patients and their families. This multidisciplinary approach helps patients and family members confront both the immediate and long-term effects of cancer.",
+		"longDescription": "At UCLA Health, teams of specialists work together to treat and assist cancer patients and their families. This multidisciplinary approach helps patients and family members confront both the immediate and long-term effects of cancer. \n \n A Comprehensive Cancer Center: Patients benefit from a full range of care and support services from doctors, clinics, centers and hospitals crossing over 40 scientific and medical disciplines. UCLA Health is consistently ranked by U.S. News & World Reports as one of the best cancer center in California, and top in the U.S. \n \n UCLA: A world-class medical center integrated with a research and teaching university, UCLA is consistently ranked by U.S. News & World Reports as the best medical center in the western United States and top hospitals in the country. More than 200 UCLA physicians are listed among the Best Doctors in America. \n \n An Interdisciplinary Approach: More than 350 of our physicians and scientists work across areas such as immunology, genetics, geriatrics, hematology, public health, dentistry and nursing to provide patients with comprehensive yet specialized treatment. \n \n More Than Treatment: Patients have access to a full range of services, including early detection, prevention, education, wellness, nutritional guidance, survivorship and psychological support."
+	},
+	{
+		"id": "4",
+		"name": "Anesthesiology & Preoperative Medicine",
+		"img1": "https://medilife-react.netlify.app/4a.jpg",
+		"img2": "https://medilife-react.netlify.app/4b.jpg",
+		"img3": "https://medilife-react.netlify.app/4c.jpg",
+		"description": "The UCLA Health anesthesiology team is made up of leaders in clinical care and research. Our team includes more than 200 clinical and research faculty. More than 100 residents and fellows, nurse anesthetists and clinical staff support them in delivering safe, effective care.",
+		"longDescription": "The UCLA Health anesthesiology team is made up of leaders in clinical care and research. Our team includes more than 200 clinical and research faculty. More than 100 residents and fellows, nurse anesthetists and clinical staff support them in delivering safe, effective care. \n \n Commitment to quality: We use multiple strategies to increase quality and improve patient outcomes. Our patients eat, drink and get out of bed after surgery more quickly than is typical at other medical centers. They experience shorter hospital stays, faster recoveries and report higher levels of satisfaction. \n \n Care optimization: Through our Preoperative Evaluation and Planning Center (PEPC), we ensure that each patient is ready for surgery. We use multiple tools to optimize your health before operating. Your care might involve physical therapy before surgery, chronic pain management or improving your diet and exercise. Research has shown that preoperative planning and health optimization significantly reduces your recovery time after surgery. \n \n Community involvement: In addition to providing clinical care, our team is involved in community outreach. We have initiatives to reduce opioid use and increase health care access for all patients. Our clinicians also volunteer to educate high school students about careers in science, technology, engineering and math (STEM). \n \n Subspecialized expertise: All of our anesthesiologists are board-certified and many of them have subspecialty fellowship training. For example, we have specialists in cardiac, pediatric and obstetric anesthesia, as well as pain medicine specialists."
+	},
+	{
+		"id": "5",
+		"name": "Neurology",
+		"img1": "https://medilife-react.netlify.app/5a.jpg",
+		"img2": "https://medilife-react.netlify.app/5b.jpg",
+		"img3": "https://medilife-react.netlify.app/5c.jpg",
+		"description": "Our neurologists provide expert patient care, conduct cutting-edge research and teach the next generation of clinicians and researchers. ",
+		"longDescription": "Our neurologists provide expert patient care, conduct cutting-edge research and teach the next generation of clinicians and researchers.\n \n Nationally recognized experts: Our scientists and clinicians have been ranked 1st or 2nd in National Institutes of Health (NIH) funding since 2002. This status means we lead multiple research studies each year in neurology. Our faculty teach courses at national meetings, author textbooks on neurology subspecialties, and are well-known nationally and internationally. \n \n Advanced care options: Our 26-bed neurological intensive care unit (ICU) is the only neuro ICU in the world that has sophisticated diagnostic technology on-site. Having this technology means we can monitor conditions including ischemic stroke, traumatic brain injury (TBI) and cerebral hemorrhage in real-time. With this capability, patients who are too unstable to move still have access to the most advanced imaging. \n \n Commitment to growth: Our neurologists serve as faculty at the David Geffen School of Medicine at UCLA. They are dedicated to teaching and training residents and fellows. This commitment means our specialists continually learn about the newest, best treatments to teach the upcoming generation of neurology leaders. \n \n Subspecialty expertise: Many of our neurologists have specialized training in niche areas of neurology. Because these experts have advanced, subspecialty training, we can offer even more targeted treatments."
+	},
+	{
+		"id": "6",
+		"name": "Surgery",
+		"img1": "https://medilife-react.netlify.app/6a.jpg",
+		"img2": "https://medilife-react.netlify.app/6b.jpg",
+		"img3": "https://medilife-react.netlify.app/6c.jpg",
+		"description": "At UCLA Health, we lead the way in excellent health care. Our surgical team includes experts in multiple subspecialty areas who continually research best practices and advance their skills.",
+		"longDescription": "At UCLA Health, we lead the way in excellent health care. Our surgical team includes experts in multiple subspecialty areas who continually research best practices and advance their skills. \n \n Expanded access to care: We have trauma surgeons on call 24/7 to care for urgent and complex conditions and injuries. We also run an After-Hours Clinic in our orthopaedic department to expand access to care and reduce unnecessary emergency department visits. Many of our surgical subspecialties have inpatient and outpatient locations so you can easily access our services. \n \n Advanced technology: Our state-of-the-art operating rooms house the latest and most advanced equipment so we can offer minimally invasive and robotic surgery. These approaches offer patients a lower risk of complications, faster recovery and less scarring. They also help us manage pain without the use of opioids. \n \n Comprehensive research: Research is a priority in all of our surgical disciplines. Our clinicians commit to improving patient care by learning new techniques. We are constantly identifying more strategies that lead to excellent outcomes."
+	},
+	{
+		"id": "7",
+		"name": "Pharmaceutical Services",
+		"img1": "https://medilife-react.netlify.app/7a.jpg",
+		"img2": "https://medilife-react.netlify.app/7b.jpg",
+		"img3": "https://medilife-react.netlify.app/7c.jpg",
+		"description": "Our team provides pharmaceutical services to patients at Ronald Reagan UCLA Medical Center and Santa Monica UCLA Medical Center. We also offer outpatient services to people throughout the region.",
+		"longDescription": "Our team provides pharmaceutical services to patients at Ronald Reagan UCLA Medical Center and Santa Monica UCLA Medical Center. We also offer outpatient services to people throughout the region. \n \n Accredited specialty pharmacy: The UCLA Health Specialty Pharmacy is fully accredited by the Utilization Review Accreditation Commission. We carry drugs that aren’t available at typical retail pharmacies. These medications treat some of the most complex conditions. \n \n Drug education and research: Our pharmacists provide detailed medication information to UCLA Health staff. The pharmacy team also develops and implements drug education, training and research programs. The research programs advance new discoveries in innovative drug therapies to improve the lives of our patients. \n \n Guidance and expertise: Our dedicated pharmacists are here to guide you through your treatment plan. They work with your doctor to answer questions about medications and serve as your advocate. Our services include comprehensive assistance with insurance claims, denials and appeals."
+	},
+	{
+		"id": "8",
+		"name": "Bone Marrow/Stem Cell Transplant",
+		"img1": "https://medilife-react.netlify.app/8a.jpg",
+		"img2": "https://medilife-react.netlify.app/8b.jpg",
+		"img3": "https://medilife-react.netlify.app/8c.jpg",
+		"description": "When you have blood cancer or a bone marrow disorder, where you receive care can be a lifesaving decision. The UCLA Health Blood and Bone Marrow Transplant & Cellular Therapies Program at the UCLA Jonsson Comprehensive Cancer Center offers advanced therapies from a team of clinical experts.",
+		"longDescription": "When you have blood cancer or a bone marrow disorder, where you receive care can be a lifesaving decision. The UCLA Health Blood and Bone Marrow Transplant & Cellular Therapies Program at the UCLA Jonsson Comprehensive Cancer Center offers advanced therapies from a team of clinical experts. \n \n History of innovation: We performed one of the very first successful transplants in 1968. Since then, we have treated more than 5,000 adults and children. Our specialists incorporate the latest research and therapies into their treatment protocols, so you always receive the most up-to-date options. \n \n Access to new treatments: As a leading academic medical center, we offer a range of clinical trials in blood cancer and bone marrow treatment. For example, we were part of the landmark COBALT study that found we could use blood from an umbilical cord as a source of stem cells for transplants. We are also one of the first centers in the nation to treat both diffuse large B-cell lymphoma (DLBCL) and acute lymphoblastic leukemia (ALL) with CAR T-cell therapies. \n \n Collaborative approach: Our team includes experts in oncology, hematology, immunology and infectious diseases. These specialists work together to develop personalized treatment plans that offer you the best chance for a positive outcome."
+	},
+	{
+		"id": "9",
+		"name": "Bone Marrow/Stem Cell Transplant",
+		"img1": "https://medilife-react.netlify.app/9a.jpg",
+		"img2": "https://medilife-react.netlify.app/9b.jpg",
+		"img3": "https://medilife-react.netlify.app/9c.jpg",
+		"description": "When you have blood cancer or a bone marrow disorder, where you receive care can be a lifesaving decision. The UCLA Health Blood and Bone Marrow Transplant & Cellular Therapies Program at the UCLA Jonsson Comprehensive Cancer Center offers advanced therapies from a team of clinical experts.",
+		"longDescription": "When you have blood cancer or a bone marrow disorder, where you receive care can be a lifesaving decision. The UCLA Health Blood and Bone Marrow Transplant & Cellular Therapies Program at the UCLA Jonsson Comprehensive Cancer Center offers advanced therapies from a team of clinical experts. \n \n History of innovation: We performed one of the very first successful transplants in 1968. Since then, we have treated more than 5,000 adults and children. Our specialists incorporate the latest research and therapies into their treatment protocols, so you always receive the most up-to-date options. \n \n Access to new treatments: As a leading academic medical center, we offer a range of clinical trials in blood cancer and bone marrow treatment. For example, we were part of the landmark COBALT study that found we could use blood from an umbilical cord as a source of stem cells for transplants. We are also one of the first centers in the nation to treat both diffuse large B-cell lymphoma (DLBCL) and acute lymphoblastic leukemia (ALL) with CAR T-cell therapies. \n \n Collaborative approach: Our team includes experts in oncology, hematology, immunology and infectious diseases. These specialists work together to develop personalized treatment plans that offer you the best chance for a positive outcome."
+	}
+]

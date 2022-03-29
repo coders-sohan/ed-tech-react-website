@@ -1,0 +1,25 @@
+.navbar-item {
+	font-size: 18px;
+	font-weight: 500;
+	position: relative;
+}
+
+.navbar-item::after {
+	content: "";
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 0px;
+	height: 2px;
+	background: #11ab81;
+	transition: all 0.3s ease;
+}
+
+.nav-link:hover.nav-link::after {
+	width: 100%;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show > .nav-link {
+	color: #06bb8b;
+}
