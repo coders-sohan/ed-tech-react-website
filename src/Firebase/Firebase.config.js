@@ -1,11 +1,11 @@
 // App's Firebase configuration
 const firebaseConfig = {
-	apiKey: "AIzaSyAgtx7I_7n0EnjIzWNHw1GZoe_jm6F5PTg",
-	authDomain: "medilife-react.firebaseapp.com",
-	projectId: "medilife-react",
-	storageBucket: "medilife-react.appspot.com",
-	messagingSenderId: "138544419409",
-	appId: "1:138544419409:web:2af474aba90b8676401e70",
+	apiKey: "AIzaSyAOmPWwX6o5OCrHpQ8RBPu10D1EjlsFxF4",
+	authDomain: "ed-tech-react.firebaseapp.com",
+	projectId: "ed-tech-react",
+	storageBucket: "ed-tech-react.appspot.com",
+	messagingSenderId: "89570776371",
+	appId: "1:89570776371:web:a8f8815224fb5fc4525a46",
 };
 
 export default firebaseConfig;

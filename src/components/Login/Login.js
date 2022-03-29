@@ -144,7 +144,7 @@ const Login = () => {
 						</div>
 
 						<p className="mt-5 mb-3 text-muted text-center">
-							&copy; MediLife Health Care {Date().slice(11, 15)}
+							&copy; Ed-Tech Education {Date().slice(11, 15)}
 						</p>
 					</div>
 				</div>
