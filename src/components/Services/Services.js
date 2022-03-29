@@ -13,7 +13,7 @@ const Services = () => {
 			<div className="container py-5">
 				<div className="py-3">
 					<h1 className="pb-3 text-center whyus-text">
-						Our <span className="text-general">Services</span>
+						Our <span className="text-general">Courses</span>
 					</h1>
 				</div>
 				<div className="mt-4">
